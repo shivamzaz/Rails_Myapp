@@ -1,0 +1,19 @@
+[1] Open a file  -> :e <file_name>
+
+[2] Split a File -> :vsp <file_name>
+
+[3] Insert into file -> i
+
+[4] Save -> :w
+
+[5] Save and Exit -> :wq  or Shift+zz or :wq!
+
+[6] Delete a line -> dd
+
+[7] Select a Line -> Shift+v
+
+[8] Select multiple line -> v
+
+[9] Undo -> u
+
+[10] Exit -> q or q!
